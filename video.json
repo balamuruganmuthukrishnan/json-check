@@ -1,0 +1,1997 @@
+[
+  {
+    "activecase": 3947, 
+    "cases": 81285, 
+    "cntry": "China", 
+    "critical": 1235, 
+    "death": 3287, 
+    "recovered": 74051, 
+    "todaycase": 67, 
+    "todaydeath": 6
+  }, 
+  {
+    "activecase": 71499, 
+    "cases": 74422, 
+    "cntry": "USA", 
+    "critical": 1857, 
+    "death": 1073, 
+    "recovered": 1850, 
+    "todaycase": 6211, 
+    "todaydeath": 46
+  }, 
+  {
+    "activecase": 57521, 
+    "cases": 74386, 
+    "cntry": "Italy", 
+    "critical": 3489, 
+    "death": 7503, 
+    "recovered": 9362, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 45037, 
+    "cases": 56197, 
+    "cntry": "Spain", 
+    "critical": 3166, 
+    "death": 4145, 
+    "recovered": 7015, 
+    "todaycase": 6682, 
+    "todaydeath": 498
+  }, 
+  {
+    "activecase": 35607, 
+    "cases": 41519, 
+    "cntry": "Germany", 
+    "critical": 23, 
+    "death": 239, 
+    "recovered": 5673, 
+    "todaycase": 4196, 
+    "todaydeath": 33
+  }, 
+  {
+    "activecase": 16715, 
+    "cases": 29406, 
+    "cntry": "Iran", 
+    "critical": 2746, 
+    "death": 2234, 
+    "recovered": 10457, 
+    "todaycase": 2389, 
+    "todaydeath": 157
+  }, 
+  {
+    "activecase": 20002, 
+    "cases": 25233, 
+    "cntry": "France", 
+    "critical": 2827, 
+    "death": 1331, 
+    "recovered": 3900, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 11390, 
+    "cases": 11712, 
+    "cntry": "Switzerland", 
+    "critical": 141, 
+    "death": 191, 
+    "recovered": 131, 
+    "todaycase": 815, 
+    "todaydeath": 38
+  }, 
+  {
+    "activecase": 9237, 
+    "cases": 9849, 
+    "cntry": "UK", 
+    "critical": 163, 
+    "death": 477, 
+    "recovered": 135, 
+    "todaycase": 320, 
+    "todaydeath": 12
+  }, 
+  {
+    "activecase": 4966, 
+    "cases": 9241, 
+    "cntry": "S. Korea", 
+    "critical": 59, 
+    "death": 131, 
+    "recovered": 4144, 
+    "todaycase": 104, 
+    "todaydeath": 5
+  }, 
+  {
+    "activecase": 6994, 
+    "cases": 7431, 
+    "cntry": "Netherlands", 
+    "critical": 582, 
+    "death": 434, 
+    "recovered": 3, 
+    "todaycase": 1019, 
+    "todaydeath": 78
+  }, 
+  {
+    "activecase": 6237, 
+    "cases": 6398, 
+    "cntry": "Austria", 
+    "critical": 28, 
+    "death": 49, 
+    "recovered": 112, 
+    "todaycase": 810, 
+    "todaydeath": 18
+  }, 
+  {
+    "activecase": 5340, 
+    "cases": 6235, 
+    "cntry": "Belgium", 
+    "critical": 605, 
+    "death": 220, 
+    "recovered": 675, 
+    "todaycase": 1298, 
+    "todaydeath": 42
+  }, 
+  {
+    "activecase": 3358, 
+    "cases": 3579, 
+    "cntry": "Canada", 
+    "critical": 35, 
+    "death": 36, 
+    "recovered": 185, 
+    "todaycase": 170, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3441, 
+    "cases": 3544, 
+    "cntry": "Portugal", 
+    "critical": 61, 
+    "death": 60, 
+    "recovered": 43, 
+    "todaycase": 549, 
+    "todaydeath": 17
+  }, 
+  {
+    "activecase": 3259, 
+    "cases": 3279, 
+    "cntry": "Norway", 
+    "critical": 70, 
+    "death": 14, 
+    "recovered": 6, 
+    "todaycase": 195, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2753, 
+    "cases": 2840, 
+    "cntry": "Sweden", 
+    "critical": 176, 
+    "death": 71, 
+    "recovered": 16, 
+    "todaycase": 314, 
+    "todaydeath": 9
+  }, 
+  {
+    "activecase": 2623, 
+    "cases": 2806, 
+    "cntry": "Australia", 
+    "critical": 11, 
+    "death": 13, 
+    "recovered": 170, 
+    "todaycase": 130, 
+    "todaydeath": 2
+  }, 
+  {
+    "activecase": 2590, 
+    "cases": 2666, 
+    "cntry": "Israel", 
+    "critical": 39, 
+    "death": 8, 
+    "recovered": 68, 
+    "todaycase": 297, 
+    "todaydeath": 3
+  }, 
+  {
+    "activecase": 2529, 
+    "cases": 2598, 
+    "cntry": "Brazil", 
+    "critical": 18, 
+    "death": 63, 
+    "recovered": 6, 
+    "todaycase": 44, 
+    "todaydeath": 4
+  }, 
+  {
+    "activecase": 2348, 
+    "cases": 2433, 
+    "cntry": "Turkey", 
+    "critical": 136, 
+    "death": 59, 
+    "recovered": 26, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1793, 
+    "cases": 2031, 
+    "cntry": "Malaysia", 
+    "critical": 45, 
+    "death": 23, 
+    "recovered": 215, 
+    "todaycase": 235, 
+    "todaydeath": 3
+  }, 
+  {
+    "activecase": 1809, 
+    "cases": 1851, 
+    "cntry": "Denmark", 
+    "critical": 94, 
+    "death": 41, 
+    "recovered": 1, 
+    "todaycase": 127, 
+    "todaydeath": 7
+  }, 
+  {
+    "activecase": 1758, 
+    "cases": 1775, 
+    "cntry": "Czechia", 
+    "critical": 34, 
+    "death": 7, 
+    "recovered": 10, 
+    "todaycase": 121, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 1550, 
+    "cases": 1564, 
+    "cntry": "Ireland", 
+    "critical": 39, 
+    "death": 9, 
+    "recovered": 5, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 993, 
+    "cases": 1399, 
+    "cntry": "Japan", 
+    "critical": 57, 
+    "death": 47, 
+    "recovered": 359, 
+    "todaycase": 92, 
+    "todaydeath": 2
+  }, 
+  {
+    "activecase": 1345, 
+    "cases": 1382, 
+    "cntry": "Ecuador", 
+    "critical": 2, 
+    "death": 34, 
+    "recovered": 3, 
+    "todaycase": 171, 
+    "todaydeath": 5
+  }, 
+  {
+    "activecase": 1319, 
+    "cases": 1333, 
+    "cntry": "Luxembourg", 
+    "critical": 3, 
+    "death": 8, 
+    "recovered": 6, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1280, 
+    "cases": 1306, 
+    "cntry": "Chile", 
+    "critical": 7, 
+    "death": 4, 
+    "recovered": 22, 
+    "todaycase": 164, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 1100, 
+    "cases": 1130, 
+    "cntry": "Pakistan", 
+    "critical": 5, 
+    "death": 9, 
+    "recovered": 21, 
+    "todaycase": 67, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 1099, 
+    "cases": 1120, 
+    "cntry": "Poland", 
+    "critical": 3, 
+    "death": 14, 
+    "recovered": 7, 
+    "todaycase": 69, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 953, 
+    "cases": 1045, 
+    "cntry": "Thailand", 
+    "critical": 4, 
+    "death": 4, 
+    "recovered": 88, 
+    "todaycase": 111, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 917, 
+    "cases": 1029, 
+    "cntry": "Romania", 
+    "critical": 29, 
+    "death": 18, 
+    "recovered": 94, 
+    "todaycase": 123, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 976, 
+    "cases": 1012, 
+    "cntry": "Saudi Arabia", 
+    "critical": 6, 
+    "death": 3, 
+    "recovered": 33, 
+    "todaycase": 112, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 943, 
+    "cases": 958, 
+    "cntry": "Finland", 
+    "critical": 24, 
+    "death": 5, 
+    "recovered": 10, 
+    "todaycase": 78, 
+    "todaydeath": 2
+  }, 
+  {
+    "activecase": 915, 
+    "cases": 927, 
+    "cntry": "South Africa", 
+    "critical": 2, 
+    "death": 0, 
+    "recovered": 12, 
+    "todaycase": 218, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 780, 
+    "cases": 893, 
+    "cntry": "Indonesia", 
+    "critical": 0, 
+    "death": 78, 
+    "recovered": 35, 
+    "todaycase": 103, 
+    "todaydeath": 20
+  }, 
+  {
+    "activecase": 799, 
+    "cases": 840, 
+    "cntry": "Russia", 
+    "critical": 8, 
+    "death": 3, 
+    "recovered": 38, 
+    "todaycase": 182, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 762, 
+    "cases": 821, 
+    "cntry": "Greece", 
+    "critical": 53, 
+    "death": 23, 
+    "recovered": 36, 
+    "todaycase": 0, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 732, 
+    "cases": 802, 
+    "cntry": "Iceland", 
+    "critical": 11, 
+    "death": 2, 
+    "recovered": 68, 
+    "todaycase": 65, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 658, 
+    "cases": 719, 
+    "cntry": "India", 
+    "critical": 0, 
+    "death": 16, 
+    "recovered": 45, 
+    "todaycase": 62, 
+    "todaydeath": 4
+  }, 
+  {
+    "activecase": 105, 
+    "cases": 712, 
+    "cntry": "Diamond Princess", 
+    "critical": 15, 
+    "death": 10, 
+    "recovered": 597, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 634, 
+    "cases": 707, 
+    "cntry": "Philippines", 
+    "critical": 1, 
+    "death": 45, 
+    "recovered": 28, 
+    "todaycase": 71, 
+    "todaydeath": 7
+  }, 
+  {
+    "activecase": 509, 
+    "cases": 683, 
+    "cntry": "Singapore", 
+    "critical": 17, 
+    "death": 2, 
+    "recovered": 172, 
+    "todaycase": 52, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 561, 
+    "cases": 577, 
+    "cntry": "Slovenia", 
+    "critical": 14, 
+    "death": 6, 
+    "recovered": 10, 
+    "todaycase": 49, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 548, 
+    "cases": 558, 
+    "cntry": "Panama", 
+    "critical": 20, 
+    "death": 8, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 529, 
+    "cases": 538, 
+    "cntry": "Estonia", 
+    "critical": 6, 
+    "death": 1, 
+    "recovered": 8, 
+    "todaycase": 134, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 496, 
+    "cases": 537, 
+    "cntry": "Qatar", 
+    "critical": 6, 
+    "death": 0, 
+    "recovered": 41, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 442, 
+    "cases": 502, 
+    "cntry": "Argentina", 
+    "critical": 0, 
+    "death": 8, 
+    "recovered": 52, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 471, 
+    "cases": 495, 
+    "cntry": "Croatia", 
+    "critical": 14, 
+    "death": 2, 
+    "recovered": 22, 
+    "todaycase": 53, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 470, 
+    "cases": 480, 
+    "cntry": "Peru", 
+    "critical": 9, 
+    "death": 9, 
+    "recovered": 1, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 465, 
+    "cases": 475, 
+    "cntry": "Mexico", 
+    "critical": 1, 
+    "death": 6, 
+    "recovered": 4, 
+    "todaycase": 70, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 458, 
+    "cases": 470, 
+    "cntry": "Colombia", 
+    "critical": 0, 
+    "death": 4, 
+    "recovered": 8, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 435, 
+    "cases": 457, 
+    "cntry": "Serbia", 
+    "critical": 21, 
+    "death": 7, 
+    "recovered": 15, 
+    "todaycase": 73, 
+    "todaydeath": 3
+  }, 
+  {
+    "activecase": 249, 
+    "cases": 457, 
+    "cntry": "Bahrain", 
+    "critical": 1, 
+    "death": 4, 
+    "recovered": 204, 
+    "todaycase": 38, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 340, 
+    "cases": 456, 
+    "cntry": "Egypt", 
+    "critical": 0, 
+    "death": 21, 
+    "recovered": 95, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 339, 
+    "cases": 453, 
+    "cntry": "Hong Kong", 
+    "critical": 5, 
+    "death": 4, 
+    "recovered": 110, 
+    "todaycase": 42, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 379, 
+    "cases": 392, 
+    "cntry": "Dominican Republic", 
+    "critical": 0, 
+    "death": 10, 
+    "recovered": 3, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 241, 
+    "cases": 382, 
+    "cntry": "Iraq", 
+    "critical": 0, 
+    "death": 36, 
+    "recovered": 105, 
+    "todaycase": 36, 
+    "todaydeath": 7
+  }, 
+  {
+    "activecase": 339, 
+    "cases": 368, 
+    "cntry": "Lebanon", 
+    "critical": 3, 
+    "death": 6, 
+    "recovered": 23, 
+    "todaycase": 35, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 279, 
+    "cases": 333, 
+    "cntry": "UAE", 
+    "critical": 2, 
+    "death": 2, 
+    "recovered": 52, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 253, 
+    "cases": 302, 
+    "cntry": "Algeria", 
+    "critical": 0, 
+    "death": 25, 
+    "recovered": 24, 
+    "todaycase": 0, 
+    "todaydeath": 4
+  }, 
+  {
+    "activecase": 285, 
+    "cases": 290, 
+    "cntry": "Lithuania", 
+    "critical": 1, 
+    "death": 4, 
+    "recovered": 1, 
+    "todaycase": 16, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 271, 
+    "cases": 290, 
+    "cntry": "Armenia", 
+    "critical": 6, 
+    "death": 1, 
+    "recovered": 18, 
+    "todaycase": 25, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 256, 
+    "cases": 283, 
+    "cntry": "New Zealand", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 27, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 253, 
+    "cases": 264, 
+    "cntry": "Bulgaria", 
+    "critical": 8, 
+    "death": 3, 
+    "recovered": 8, 
+    "todaycase": 22, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 223, 
+    "cases": 261, 
+    "cntry": "Hungary", 
+    "critical": 6, 
+    "death": 10, 
+    "recovered": 28, 
+    "todaycase": 35, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 221, 
+    "cases": 252, 
+    "cntry": "Taiwan", 
+    "critical": 0, 
+    "death": 2, 
+    "recovered": 29, 
+    "todaycase": 17, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 243, 
+    "cases": 244, 
+    "cntry": "Latvia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 1, 
+    "todaycase": 23, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 224, 
+    "cases": 226, 
+    "cntry": "Slovakia", 
+    "critical": 2, 
+    "death": 0, 
+    "recovered": 2, 
+    "todaycase": 10, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 212, 
+    "cases": 225, 
+    "cntry": "Morocco", 
+    "critical": 1, 
+    "death": 6, 
+    "recovered": 7, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 220, 
+    "cases": 224, 
+    "cntry": "Andorra", 
+    "critical": 6, 
+    "death": 3, 
+    "recovered": 1, 
+    "todaycase": 36, 
+    "todaydeath": 2
+  }, 
+  {
+    "activecase": 217, 
+    "cases": 217, 
+    "cntry": "Uruguay", 
+    "critical": 3, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 183, 
+    "cases": 208, 
+    "cntry": "San Marino", 
+    "critical": 12, 
+    "death": 21, 
+    "recovered": 4, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 159, 
+    "cases": 208, 
+    "cntry": "Kuwait", 
+    "critical": 7, 
+    "death": 0, 
+    "recovered": 49, 
+    "todaycase": 13, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 195, 
+    "cases": 201, 
+    "cntry": "North Macedonia", 
+    "critical": 1, 
+    "death": 3, 
+    "recovered": 3, 
+    "todaycase": 24, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 197, 
+    "cases": 201, 
+    "cntry": "Costa Rica", 
+    "critical": 4, 
+    "death": 2, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 192, 
+    "cases": 200, 
+    "cntry": "Tunisia", 
+    "critical": 10, 
+    "death": 6, 
+    "recovered": 2, 
+    "todaycase": 27, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 184, 
+    "cases": 189, 
+    "cntry": "Bosnia and Herzegovina", 
+    "critical": 1, 
+    "death": 3, 
+    "recovered": 2, 
+    "todaycase": 13, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 174, 
+    "cases": 177, 
+    "cntry": "Moldova", 
+    "critical": 28, 
+    "death": 1, 
+    "recovered": 2, 
+    "todaycase": 28, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 151, 
+    "cases": 174, 
+    "cntry": "Albania", 
+    "critical": 3, 
+    "death": 6, 
+    "recovered": 17, 
+    "todaycase": 28, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 171, 
+    "cases": 172, 
+    "cntry": "Jordan", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 1, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 156, 
+    "cases": 162, 
+    "cntry": "Ukraine", 
+    "critical": 0, 
+    "death": 5, 
+    "recovered": 1, 
+    "todaycase": 17, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 133, 
+    "cases": 153, 
+    "cntry": "Vietnam", 
+    "critical": 3, 
+    "death": 0, 
+    "recovered": 20, 
+    "todaycase": 5, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 138, 
+    "cases": 152, 
+    "cntry": "Burkina Faso", 
+    "critical": 0, 
+    "death": 4, 
+    "recovered": 10, 
+    "todaycase": 6, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 93, 
+    "cases": 140, 
+    "cntry": "Faeroe Islands", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 47, 
+    "todaycase": 8, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 134, 
+    "cases": 135, 
+    "cntry": "R\u00e9union", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 1, 
+    "todaycase": 24, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 132, 
+    "cases": 134, 
+    "cntry": "Malta", 
+    "critical": 1, 
+    "death": 0, 
+    "recovered": 2, 
+    "todaycase": 5, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 127, 
+    "cases": 132, 
+    "cntry": "Ghana", 
+    "critical": 0, 
+    "death": 4, 
+    "recovered": 1, 
+    "todaycase": 64, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 125, 
+    "cases": 132, 
+    "cntry": "Cyprus", 
+    "critical": 3, 
+    "death": 3, 
+    "recovered": 4, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 104, 
+    "cases": 122, 
+    "cntry": "Azerbaijan", 
+    "critical": 6, 
+    "death": 3, 
+    "recovered": 15, 
+    "todaycase": 29, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 109, 
+    "cases": 114, 
+    "cntry": "Brunei", 
+    "critical": 1, 
+    "death": 0, 
+    "recovered": 5, 
+    "todaycase": 5, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 108, 
+    "cases": 111, 
+    "cntry": "Kazakhstan", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 2, 
+    "todaycase": 30, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 86, 
+    "cases": 109, 
+    "cntry": "Oman", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 23, 
+    "todaycase": 10, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 91, 
+    "cases": 106, 
+    "cntry": "Venezuela", 
+    "critical": 2, 
+    "death": 0, 
+    "recovered": 15, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 96, 
+    "cases": 105, 
+    "cntry": "Senegal", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 9, 
+    "todaycase": 6, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 97, 
+    "cases": 104, 
+    "cntry": "Sri Lanka", 
+    "critical": 3, 
+    "death": 0, 
+    "recovered": 7, 
+    "todaycase": 2, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 86, 
+    "cases": 96, 
+    "cntry": "Cambodia", 
+    "critical": 1, 
+    "death": 0, 
+    "recovered": 10, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 57, 
+    "cases": 86, 
+    "cntry": "Belarus", 
+    "critical": 2, 
+    "death": 0, 
+    "recovered": 29, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 80, 
+    "cases": 84, 
+    "cntry": "Afghanistan", 
+    "critical": 0, 
+    "death": 2, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 66, 
+    "cases": 84, 
+    "cntry": "Palestine", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 17, 
+    "todaycase": 13, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 79, 
+    "cases": 81, 
+    "cntry": "Mauritius", 
+    "critical": 1, 
+    "death": 2, 
+    "recovered": 0, 
+    "todaycase": 33, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 77, 
+    "cases": 80, 
+    "cntry": "Ivory Coast", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 3, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 69, 
+    "cases": 79, 
+    "cntry": "Georgia", 
+    "critical": 1, 
+    "death": 0, 
+    "recovered": 10, 
+    "todaycase": 4, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 72, 
+    "cases": 75, 
+    "cntry": "Cameroon", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 72, 
+    "cases": 73, 
+    "cntry": "Guadeloupe", 
+    "critical": 4, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 65, 
+    "cases": 67, 
+    "cntry": "Cuba", 
+    "critical": 2, 
+    "death": 1, 
+    "recovered": 1, 
+    "todaycase": 10, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 66, 
+    "cases": 67, 
+    "cntry": "Montenegro", 
+    "critical": 1, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 14, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 65, 
+    "cases": 66, 
+    "cntry": "Martinique", 
+    "critical": 7, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 65, 
+    "cases": 65, 
+    "cntry": "Uzbekistan", 
+    "critical": 4, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 5, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 60, 
+    "cases": 61, 
+    "cntry": "Trinidad and Tobago", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 1, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 52, 
+    "cases": 52, 
+    "cntry": "Honduras", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 48, 
+    "cases": 51, 
+    "cntry": "DRC", 
+    "critical": 0, 
+    "death": 3, 
+    "recovered": 0, 
+    "todaycase": 3, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 48, 
+    "cases": 51, 
+    "cntry": "Nigeria", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 51, 
+    "cases": 51, 
+    "cntry": "Liechtenstein", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 45, 
+    "cases": 46, 
+    "cntry": "Channel Islands", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 28, 
+    "cases": 44, 
+    "cntry": "Bangladesh", 
+    "critical": 1, 
+    "death": 5, 
+    "recovered": 11, 
+    "todaycase": 5, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 44, 
+    "cases": 44, 
+    "cntry": "Kyrgyzstan", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 38, 
+    "cases": 41, 
+    "cntry": "Paraguay", 
+    "critical": 1, 
+    "death": 3, 
+    "recovered": 0, 
+    "todaycase": 4, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 41, 
+    "cases": 41, 
+    "cntry": "Rwanda", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 39, 
+    "cases": 39, 
+    "cntry": "Bolivia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 7, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 36, 
+    "cases": 36, 
+    "cntry": "Mayotte", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 29, 
+    "cases": 31, 
+    "cntry": "Kenya", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 1, 
+    "todaycase": 3, 
+    "todaydeath": 1
+  }, 
+  {
+    "activecase": 21, 
+    "cases": 31, 
+    "cntry": "Macao", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 10, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 30, 
+    "cases": 31, 
+    "cntry": "Monaco", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 1, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 22, 
+    "cases": 28, 
+    "cntry": "French Guiana", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 6, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 23, 
+    "cases": 26, 
+    "cntry": "Jamaica", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 21, 
+    "cases": 26, 
+    "cntry": "Gibraltar", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 5, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 25, 
+    "cases": 25, 
+    "cntry": "French Polynesia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 25, 
+    "cases": 25, 
+    "cntry": "Isle of Man", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 2, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 19, 
+    "cases": 24, 
+    "cntry": "Guatemala", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 4, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 23, 
+    "cases": 23, 
+    "cntry": "Madagascar", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 4, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 22, 
+    "cases": 23, 
+    "cntry": "Togo", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 1, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 18, 
+    "cases": 19, 
+    "cntry": "Aruba", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 1, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 18, 
+    "cases": 18, 
+    "cntry": "Barbados", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 16, 
+    "cases": 16, 
+    "cntry": "Zambia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 4, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 14, 
+    "cases": 14, 
+    "cntry": "New Caledonia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 14, 
+    "cases": 14, 
+    "cntry": "Uganda", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 13, 
+    "cases": 13, 
+    "cntry": "El Salvador", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 4, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 5, 
+    "cases": 13, 
+    "cntry": "Maldives", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 8, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 13, 
+    "cases": 13, 
+    "cntry": "Tanzania", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 12, 
+    "cases": 12, 
+    "cntry": "Ethiopia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 11, 
+    "cases": 11, 
+    "cntry": "Djibouti", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 11, 
+    "cases": 11, 
+    "cntry": "Dominica", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 11, 
+    "cases": 11, 
+    "cntry": "Mongolia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 1, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 11, 
+    "cases": 11, 
+    "cntry": "Saint Martin", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 9, 
+    "cases": 9, 
+    "cntry": "Equatorial Guinea", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 7, 
+    "cases": 8, 
+    "cntry": "Cayman Islands", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 8, 
+    "cases": 8, 
+    "cntry": "Haiti", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 8, 
+    "cases": 8, 
+    "cntry": "Suriname", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 6, 
+    "cases": 7, 
+    "cntry": "Gabon", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 1, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 6, 
+    "cases": 7, 
+    "cntry": "Niger", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 5, 
+    "cases": 7, 
+    "cntry": "Bermuda", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 5, 
+    "cases": 7, 
+    "cntry": "Namibia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 7, 
+    "cases": 7, 
+    "cntry": "Seychelles", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 6, 
+    "cntry": "Cura\u00e7ao", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 6, 
+    "cases": 6, 
+    "cntry": "Benin", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 4, 
+    "cases": 6, 
+    "cntry": "Greenland", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 2, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 6, 
+    "cases": 6, 
+    "cntry": "Laos", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 3, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 4, 
+    "cases": 5, 
+    "cntry": "Guyana", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 4, 
+    "cases": 5, 
+    "cntry": "Bahamas", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 1, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 5, 
+    "cases": 5, 
+    "cntry": "Fiji", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 5, 
+    "cases": 5, 
+    "cntry": "Mozambique", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 5, 
+    "cases": 5, 
+    "cntry": "Syria", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 4, 
+    "cntry": "Cabo Verde", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 4, 
+    "cases": 4, 
+    "cntry": "Congo", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 4, 
+    "cases": 4, 
+    "cntry": "Eritrea", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 4, 
+    "cases": 4, 
+    "cntry": "Guinea", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 4, 
+    "cases": 4, 
+    "cntry": "Vatican City", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 4, 
+    "cases": 4, 
+    "cntry": "Eswatini", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 3, 
+    "cntry": "Gambia", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 3, 
+    "cntry": "Sudan", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 3, 
+    "cntry": "Zimbabwe", 
+    "critical": 0, 
+    "death": 1, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 3, 
+    "cntry": "Nepal", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 1, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "Angola", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "Antigua and Barbuda", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "CAR", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "Chad", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "Liberia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "Mauritania", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 1, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "Myanmar", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "St. Barth", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "Saint Lucia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 3, 
+    "cases": 3, 
+    "cntry": "Sint Maarten", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 2, 
+    "cntry": "Belize", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 2, 
+    "cntry": "Bhutan", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 2, 
+    "cntry": "British Virgin Islands", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 2, 
+    "cntry": "Guinea-Bissau", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 2, 
+    "cntry": "Mali", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 2, 
+    "cntry": "Nicaragua", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 2, 
+    "cntry": "Saint Kitts and Nevis", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 2, 
+    "cases": 2, 
+    "cntry": "Somalia", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 1, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1, 
+    "cases": 1, 
+    "cntry": "Grenada", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1, 
+    "cases": 1, 
+    "cntry": "Libya", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1, 
+    "cases": 1, 
+    "cntry": "Montserrat", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1, 
+    "cases": 1, 
+    "cntry": "Papua New Guinea", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1, 
+    "cases": 1, 
+    "cntry": "St. Vincent Grenadines", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1, 
+    "cases": 1, 
+    "cntry": "Timor-Leste", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }, 
+  {
+    "activecase": 1, 
+    "cases": 1, 
+    "cntry": "Turks and Caicos", 
+    "critical": 0, 
+    "death": 0, 
+    "recovered": 0, 
+    "todaycase": 0, 
+    "todaydeath": 0
+  }
+]
+https://drive.google.com/open?id=1OalLu56A_9n-FUr4THDI3Pm1x_bqEm61
+
+https://drive.google.com/open?id=1OalLu56A_9n-FUr4THDI3Pm1x_bqEm61
+
+https://raw.githubusercontent.com/balamuruganmuthukrishnan/json-check/master/corana.json
