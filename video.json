@@ -1,12 +1,8 @@
 [
   {
-    "activecase": 1091123, 
-    "cases": 1497999, 
     "title": "World", 
-    "critical": 48007, 
-    "death": 87716, 
-    "recovered": 319160, 
-    "todaycase": 67080, 
-    "todaydeath": 5682
+    "des": 48007, 
+    "author": 87716, 
+    "link": 319160, 
   }
 ]
