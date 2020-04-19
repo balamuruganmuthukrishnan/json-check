@@ -1,5 +1,5 @@
 [
- { 
+  { 
     "author": "MMC", 
     "title": "Introduction", 
     "link": "CllPLRCJnF0", 
@@ -13,39 +13,45 @@
   },
   {
     "author": "MMC", 
-    "title": "JUNIOR CLASS", 
+    "title": "Beginners Class 1", 
     "link": "uTN25ndO6iU", 
-    "des":  "Sunday school class 2 BALAVAKUP"
+    "des":  "Online Class For Sishuvakup"
   },
   {
     "author": "jeji thomas", 
-    "title": "JUNIOR CLASS", 
-    "link": "Aon71NBTVVU", 
-    "des":  "Sunday school class 3 KUMARAVAKUP"
+    "title": "Beginners Class 2", 
+    "link": "z3RXnBUeKDY", 
+    "des":  "Online Class For Sisuvakup"
   },
   
    { 
     "author": "MMC", 
-    "title": " Intermediate", 
-    "link": "7VNH4_kXT99o", 
-    "des":  "Sunday School Class Day 4 For MADYAVAKUP"
+    "title": " Junior Class 1", 
+    "link": "Aon71NBTVVU", 
+    "des":  "Online Class For Kumaravakup"
   },
    { 
     "author": "MMC", 
-    "title": "Senior", 
+    "title": "Intermediate Class 1", 
+    "link": "HVNH4_kXT99o", 
+    "des":  "Online Class For Madhyavakup"
+  },
+   { 
+    "author": "MMC", 
+    "title": "Senior Class 1", 
     "link": "Hu-2FIq0Y1U", 
-    "des":  "Sunday School Class Day 5 JESHTAVAKUP"
+    "des":  "Online Class For Jeshtavakup"
   },
    { 
     "author": "MMC", 
-    "title": "Young Adults", 
+    "title": "Young Adults Class 1", 
     "link": "u_FyicPa4sk", 
-    "des":  "eSunday School Class Day 6 YUVAVAKUPV"
+    "des":  "Online Class For Yuvavakup"
   },
    { 
     "author": "MMC", 
-    "title": "Adults", 
+    "title": "Young Adults Class 1", 
     "link": "cFyRy7g7Vsg", 
-    "des":  "Sunday School Class Day 7 PRAUWDAVAKUP"
+    "des":  "Online Class For Proudavakup"
   }
  ]
